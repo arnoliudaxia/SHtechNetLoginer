@@ -28,3 +28,4 @@ env/
 venv/
 build/
 dist/
+.idea/
